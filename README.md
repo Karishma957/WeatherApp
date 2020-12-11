@@ -1,6 +1,11 @@
-# animation_try1
+# Weather App
 
-A new Flutter application.
+A new Flutter application with animations using Rive.
+
+# App UI
+<img src="outputImages/op3.jpg" width="240" height="500">    <img src="outputImages/op4.jpg" width="240" height="500">   
+<img src="outputImages/op1.jpg" width="240" height="500">    <img src="outputImages/op2.jpg" width="240" height="500">
+
 
 ## Getting Started
 
